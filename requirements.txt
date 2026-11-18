@@ -1,0 +1,11 @@
+# Pinned from the environment used for the paper (Python 3.13.5).
+joblib==1.6.0
+matplotlib==3.11.2
+numpy==2.5.5
+pandas==3.1.1
+scikit-learn==1.9.1
+scipy==1.18.1
+seaborn==0.13.2
+threadpoolctl==3.8.0
+# Optional, only for live load generation against a cluster (code/scripts/locustfile.py); not pinned/tested here:
+# locust

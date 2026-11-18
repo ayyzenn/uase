@@ -1,0 +1,10 @@
+{
+  "csv": "data/v2/meta/yahoo_test_per_series.csv",
+  "metric": "mcc_pa",
+  "reference": "UASE-v2 (proposed)",
+  "n_series": 316,
+  "k_models": 15,
+  "friedman_stat": 590.6311383548499,
+  "friedman_p": 5.240190535025726e-117,
+  "nemenyi_cd_0.05": 1.2064636575388525
+}

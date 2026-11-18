@@ -1,0 +1,21 @@
+# Yahoo Webscope S5 may NOT be redistributed (Yahoo data terms) - never commit it
+code/data/yahoo_s5/
+**/yahoo_s5/A*Benchmark/
+# large per-series channel scores (regenerable with --save-scores, ~106 MB)
+code/data/v2/scores/
+# environments / caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# run logs
+logs/
+*.log
+# LaTeX build artefacts
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+.DS_Store

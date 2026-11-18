@@ -1,0 +1,31 @@
+{
+  "dataset": "cloud",
+  "bench": null,
+  "objective": "f1_pa",
+  "n_dev_series": 42,
+  "selected_config": "gtop4",
+  "global_rank_dev": [
+    "Spectral Residual",
+    "ECOD",
+    "Isolation Forest",
+    "HBOS",
+    "PCA+ECOD",
+    "LODA",
+    "LOF",
+    "Residual Z",
+    "Autoencoder",
+    "Rolling Z-Score",
+    "Windowed RF",
+    "One-Class SVM",
+    "Elliptic Envelope",
+    "Windowed AE"
+  ],
+  "selected_channels": [
+    "Spectral Residual",
+    "ECOD",
+    "Isolation Forest",
+    "HBOS"
+  ],
+  "dev_mean_of_selected": 0.6186882007359583,
+  "test_mean_of_selected": 0.4257840656419267
+}

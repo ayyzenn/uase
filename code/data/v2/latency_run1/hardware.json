@@ -1,0 +1,15 @@
+{
+  "cpu_model": "Intel(R) Xeon(R) Processor",
+  "cpu_family": "6",
+  "cpu_model_number": "207",
+  "hypervisor": "KVM",
+  "logical_cpus": 8,
+  "nominal_mhz": "2400.000",
+  "ram_gib": 15.6,
+  "os": "Linux-6.12.113+-x86_64-with-glibc2.41",
+  "python": "3.13.5",
+  "numpy": "2.5.5",
+  "pandas": "3.1.1",
+  "scikit_learn": "1.9.1",
+  "threads": "OMP_NUM_THREADS=1, n_jobs=1, single process"
+}

@@ -1,0 +1,16 @@
+dataset,series,t
+cloud,application-crash-rate-1/app1-01.csv,357
+cloud,application-crash-rate-1/app1-02.csv,709
+cloud,application-crash-rate-1/app1-03.csv,695
+cloud,application-crash-rate-1/app1-04.csv,695
+cloud,application-crash-rate-1/app1-05.csv,695
+cloud,application-crash-rate-1/app1-06.csv,695
+k8s,k8s_metrics.csv,7255
+yahoo,A1Benchmark/real_1.csv,1414
+yahoo,A1Benchmark/real_11.csv,1438
+yahoo,A2Benchmark/synthetic_1.csv,1093
+yahoo,A2Benchmark/synthetic_10.csv,1093
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,1375
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,1375
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,1375
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,1236

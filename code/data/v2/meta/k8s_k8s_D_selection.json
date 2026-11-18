@@ -1,0 +1,24 @@
+{
+  "dataset": "k8s",
+  "bench": "k8s_D",
+  "objective": "f1",
+  "n_dev_series": 1,
+  "selected_config": "best1_ap",
+  "global_rank_dev": [
+    "Windowed RF",
+    "Autoencoder",
+    "ECOD",
+    "HBOS",
+    "Isolation Forest",
+    "One-Class SVM",
+    "LOF",
+    "LODA",
+    "PCA+ECOD",
+    "Rolling Z-Score",
+    "Windowed AE",
+    "Elliptic Envelope"
+  ],
+  "selected_channels": null,
+  "dev_mean_of_selected": 0.9253731343283582,
+  "test_mean_of_selected": 0.991304347826087
+}

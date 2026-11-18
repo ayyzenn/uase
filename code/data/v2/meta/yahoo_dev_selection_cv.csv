@@ -1,0 +1,6 @@
+fold,selected,n_heldout,heldout_mean_f1_pa
+0,single:Residual Z,55,0.535817239644991
+1,single:Residual Z,55,0.5559611673163802
+2,single:Residual Z,55,0.537595090589743
+3,single:Residual Z,55,0.5750485539045797
+4,single:Residual Z,54,0.6317427167634301

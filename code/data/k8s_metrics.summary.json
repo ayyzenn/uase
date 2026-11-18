@@ -1,0 +1,11 @@
+{
+  "n_points": 10080,
+  "n_anomalies": 158,
+  "anomaly_rate": 0.015674603174603174,
+  "point": 68,
+  "contextual": 20,
+  "collective": 59,
+  "changepoint": 11,
+  "seasonal_normal": 690,
+  "path": "/home/ayyzenn/Desktop/uni/anomaly/code/data/k8s_metrics.csv"
+}

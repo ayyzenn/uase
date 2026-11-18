@@ -1,0 +1,239 @@
+dataset,series,component,fit_ms
+k8s,k8s_metrics.csv,Isolation Forest,293.504722
+k8s,k8s_metrics.csv,LOF,232.956936
+k8s,k8s_metrics.csv,One-Class SVM,81.604667
+k8s,k8s_metrics.csv,Elliptic Envelope,1296.030918
+k8s,k8s_metrics.csv,Autoencoder,1089.710286
+k8s,k8s_metrics.csv,ECOD,0.507361
+k8s,k8s_metrics.csv,LODA,23.088325
+k8s,k8s_metrics.csv,HBOS,8.123094
+k8s,k8s_metrics.csv,PCA+ECOD,37.321887
+k8s,k8s_metrics.csv,Rolling Z-Score,3.156496
+k8s,k8s_metrics.csv,Windowed AE,9022.069591
+k8s,k8s_metrics.csv,Windowed RF,23490.734475
+k8s,k8s_metrics.csv,"ALL channels, single fit each",35646.025911
+k8s,k8s_metrics.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),132085.2283
+yahoo,A1Benchmark/real_1.csv,Isolation Forest,70.357452
+yahoo,A1Benchmark/real_1.csv,LOF,8.83095
+yahoo,A1Benchmark/real_1.csv,One-Class SVM,3.928281
+yahoo,A1Benchmark/real_1.csv,Elliptic Envelope,328.712779
+yahoo,A1Benchmark/real_1.csv,Autoencoder,77.252682
+yahoo,A1Benchmark/real_1.csv,ECOD,0.062899
+yahoo,A1Benchmark/real_1.csv,LODA,3.225191
+yahoo,A1Benchmark/real_1.csv,HBOS,1.699283
+yahoo,A1Benchmark/real_1.csv,PCA+ECOD,4.621998
+yahoo,A1Benchmark/real_1.csv,Rolling Z-Score,0.410258
+yahoo,A1Benchmark/real_1.csv,Windowed AE,193.923838
+yahoo,A1Benchmark/real_1.csv,Windowed RF,424.230092
+yahoo,A1Benchmark/real_1.csv,"ALL channels, single fit each",1120.558692
+yahoo,A1Benchmark/real_1.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),4698.755985
+yahoo,A1Benchmark/real_11.csv,Isolation Forest,71.411818
+yahoo,A1Benchmark/real_11.csv,LOF,13.558661
+yahoo,A1Benchmark/real_11.csv,One-Class SVM,4.389706
+yahoo,A1Benchmark/real_11.csv,Elliptic Envelope,338.642486
+yahoo,A1Benchmark/real_11.csv,Autoencoder,87.53048
+yahoo,A1Benchmark/real_11.csv,ECOD,0.065405
+yahoo,A1Benchmark/real_11.csv,LODA,3.187635
+yahoo,A1Benchmark/real_11.csv,HBOS,1.80187
+yahoo,A1Benchmark/real_11.csv,PCA+ECOD,4.569929
+yahoo,A1Benchmark/real_11.csv,Rolling Z-Score,0.450817
+yahoo,A1Benchmark/real_11.csv,Windowed AE,196.737171
+yahoo,A1Benchmark/real_11.csv,Windowed RF,454.658635
+yahoo,A1Benchmark/real_11.csv,"ALL channels, single fit each",1180.02271
+yahoo,A1Benchmark/real_11.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),5494.978425
+yahoo,A2Benchmark/synthetic_1.csv,Isolation Forest,77.726844
+yahoo,A2Benchmark/synthetic_1.csv,LOF,5.423579
+yahoo,A2Benchmark/synthetic_1.csv,One-Class SVM,2.526104
+yahoo,A2Benchmark/synthetic_1.csv,Elliptic Envelope,356.006181
+yahoo,A2Benchmark/synthetic_1.csv,Autoencoder,68.397033
+yahoo,A2Benchmark/synthetic_1.csv,ECOD,0.05358
+yahoo,A2Benchmark/synthetic_1.csv,LODA,2.722823
+yahoo,A2Benchmark/synthetic_1.csv,HBOS,1.618962
+yahoo,A2Benchmark/synthetic_1.csv,PCA+ECOD,3.047035
+yahoo,A2Benchmark/synthetic_1.csv,Rolling Z-Score,0.353575
+yahoo,A2Benchmark/synthetic_1.csv,Windowed AE,175.286026
+yahoo,A2Benchmark/synthetic_1.csv,Windowed RF,467.91064
+yahoo,A2Benchmark/synthetic_1.csv,"ALL channels, single fit each",1164.051098
+yahoo,A2Benchmark/synthetic_1.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),6350.52304
+yahoo,A2Benchmark/synthetic_10.csv,Isolation Forest,71.608077
+yahoo,A2Benchmark/synthetic_10.csv,LOF,5.605935
+yahoo,A2Benchmark/synthetic_10.csv,One-Class SVM,2.287749
+yahoo,A2Benchmark/synthetic_10.csv,Elliptic Envelope,328.058241
+yahoo,A2Benchmark/synthetic_10.csv,Autoencoder,67.501065
+yahoo,A2Benchmark/synthetic_10.csv,ECOD,0.066792
+yahoo,A2Benchmark/synthetic_10.csv,LODA,2.795447
+yahoo,A2Benchmark/synthetic_10.csv,HBOS,1.604959
+yahoo,A2Benchmark/synthetic_10.csv,PCA+ECOD,3.530722
+yahoo,A2Benchmark/synthetic_10.csv,Rolling Z-Score,0.357263
+yahoo,A2Benchmark/synthetic_10.csv,Windowed AE,136.791167
+yahoo,A2Benchmark/synthetic_10.csv,Windowed RF,464.836449
+yahoo,A2Benchmark/synthetic_10.csv,"ALL channels, single fit each",1089.795725
+yahoo,A2Benchmark/synthetic_10.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),6372.282803
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Isolation Forest,69.321836
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,LOF,8.481597
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,One-Class SVM,3.118396
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Elliptic Envelope,311.518533
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Autoencoder,30.635935
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,ECOD,0.052922
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,LODA,2.896927
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,HBOS,2.207874
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,PCA+ECOD,3.737512
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Rolling Z-Score,0.411329
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Windowed AE,174.347119
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Windowed RF,747.062343
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,"ALL channels, single fit each",1357.422538
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),7561.756275
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Isolation Forest,74.389842
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,LOF,9.88454
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,One-Class SVM,3.9472
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Elliptic Envelope,353.153717
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Autoencoder,35.872133
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,ECOD,0.061296
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,LODA,3.132723
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,HBOS,1.789495
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,PCA+ECOD,3.210562
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Rolling Z-Score,0.38161
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Windowed AE,173.622465
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Windowed RF,637.246611
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,"ALL channels, single fit each",1300.064075
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),7715.965977
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Isolation Forest,70.163316
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,LOF,9.930374
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,One-Class SVM,3.530594
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Elliptic Envelope,320.47843
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Autoencoder,34.241494
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,ECOD,0.055488
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,LODA,2.918677
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,HBOS,1.699176
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,PCA+ECOD,3.384633
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Rolling Z-Score,0.393096
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Windowed AE,176.353455
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Windowed RF,901.207727
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,"ALL channels, single fit each",1527.831286
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),7747.656014
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Isolation Forest,70.136038
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,LOF,7.562806
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,One-Class SVM,2.834934
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Elliptic Envelope,317.618738
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Autoencoder,66.726889
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,ECOD,0.058681
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,LODA,2.799313
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,HBOS,1.646528
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,PCA+ECOD,3.641635
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Rolling Z-Score,0.364373
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Windowed AE,161.465514
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Windowed RF,585.820084
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,"ALL channels, single fit each",1224.037794
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),6672.942398
+cloud,application-crash-rate-1/app1-01.csv,Isolation Forest,63.010878
+cloud,application-crash-rate-1/app1-01.csv,LOF,1.47113
+cloud,application-crash-rate-1/app1-01.csv,One-Class SVM,0.870996
+cloud,application-crash-rate-1/app1-01.csv,Elliptic Envelope,23.209022
+cloud,application-crash-rate-1/app1-01.csv,Autoencoder,13.675365
+cloud,application-crash-rate-1/app1-01.csv,ECOD,0.023645
+cloud,application-crash-rate-1/app1-01.csv,LODA,2.512279
+cloud,application-crash-rate-1/app1-01.csv,HBOS,1.363289
+cloud,application-crash-rate-1/app1-01.csv,PCA+ECOD,1.670924
+cloud,application-crash-rate-1/app1-01.csv,Rolling Z-Score,0.164362
+cloud,application-crash-rate-1/app1-01.csv,Windowed AE,123.913931
+cloud,application-crash-rate-1/app1-01.csv,Windowed RF,282.427655
+cloud,application-crash-rate-1/app1-01.csv,"ALL channels, single fit each",515.675191
+cloud,application-crash-rate-1/app1-01.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),3359.836222
+cloud,application-crash-rate-2/app2-01.csv,Isolation Forest,67.778886
+cloud,application-crash-rate-2/app2-01.csv,LOF,4.167944
+cloud,application-crash-rate-2/app2-01.csv,One-Class SVM,2.525768
+cloud,application-crash-rate-2/app2-01.csv,Elliptic Envelope,322.15303
+cloud,application-crash-rate-2/app2-01.csv,Autoencoder,36.033052
+cloud,application-crash-rate-2/app2-01.csv,ECOD,0.059054
+cloud,application-crash-rate-2/app2-01.csv,LODA,2.747057
+cloud,application-crash-rate-2/app2-01.csv,HBOS,1.559557
+cloud,application-crash-rate-2/app2-01.csv,PCA+ECOD,3.149605
+cloud,application-crash-rate-2/app2-01.csv,Rolling Z-Score,0.309488
+cloud,application-crash-rate-2/app2-01.csv,Windowed AE,133.591469
+cloud,application-crash-rate-2/app2-01.csv,Windowed RF,963.713164
+cloud,application-crash-rate-2/app2-01.csv,"ALL channels, single fit each",1540.373528
+cloud,application-crash-rate-2/app2-01.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),7970.189606
+cloud,consumer-purchase-rate/purchase-02.csv,Isolation Forest,82.63482
+cloud,consumer-purchase-rate/purchase-02.csv,LOF,6.814488
+cloud,consumer-purchase-rate/purchase-02.csv,One-Class SVM,2.711958
+cloud,consumer-purchase-rate/purchase-02.csv,Elliptic Envelope,331.201767
+cloud,consumer-purchase-rate/purchase-02.csv,Autoencoder,57.414973
+cloud,consumer-purchase-rate/purchase-02.csv,ECOD,0.05782
+cloud,consumer-purchase-rate/purchase-02.csv,LODA,2.922714
+cloud,consumer-purchase-rate/purchase-02.csv,HBOS,1.720787
+cloud,consumer-purchase-rate/purchase-02.csv,PCA+ECOD,3.305162
+cloud,consumer-purchase-rate/purchase-02.csv,Rolling Z-Score,0.355972
+cloud,consumer-purchase-rate/purchase-02.csv,Windowed AE,131.118564
+cloud,consumer-purchase-rate/purchase-02.csv,Windowed RF,439.787217
+cloud,consumer-purchase-rate/purchase-02.csv,"ALL channels, single fit each",1062.62845
+cloud,consumer-purchase-rate/purchase-02.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),5508.673863
+cloud,data-ingress-rate/ingress-01.csv,Isolation Forest,109.552934
+cloud,data-ingress-rate/ingress-01.csv,LOF,215.326482
+cloud,data-ingress-rate/ingress-01.csv,One-Class SVM,118.396752
+cloud,data-ingress-rate/ingress-01.csv,Elliptic Envelope,821.494554
+cloud,data-ingress-rate/ingress-01.csv,Autoencoder,432.354543
+cloud,data-ingress-rate/ingress-01.csv,ECOD,0.306711
+cloud,data-ingress-rate/ingress-01.csv,LODA,10.598283
+cloud,data-ingress-rate/ingress-01.csv,HBOS,4.372925
+cloud,data-ingress-rate/ingress-01.csv,PCA+ECOD,25.424183
+cloud,data-ingress-rate/ingress-01.csv,Rolling Z-Score,2.217976
+cloud,data-ingress-rate/ingress-01.csv,Windowed AE,2046.35457
+cloud,data-ingress-rate/ingress-01.csv,Windowed RF,6840.855627
+cloud,data-ingress-rate/ingress-01.csv,"ALL channels, single fit each",10703.214069
+cloud,data-ingress-rate/ingress-01.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),43448.043879
+cloud,ecommerce-api-incoming-rps/api-01.csv,Isolation Forest,93.616978
+cloud,ecommerce-api-incoming-rps/api-01.csv,LOF,68.253244
+cloud,ecommerce-api-incoming-rps/api-01.csv,One-Class SVM,29.252185
+cloud,ecommerce-api-incoming-rps/api-01.csv,Elliptic Envelope,630.30982
+cloud,ecommerce-api-incoming-rps/api-01.csv,Autoencoder,271.198156
+cloud,ecommerce-api-incoming-rps/api-01.csv,ECOD,0.178487
+cloud,ecommerce-api-incoming-rps/api-01.csv,LODA,5.547288
+cloud,ecommerce-api-incoming-rps/api-01.csv,HBOS,2.620397
+cloud,ecommerce-api-incoming-rps/api-01.csv,PCA+ECOD,11.841216
+cloud,ecommerce-api-incoming-rps/api-01.csv,Rolling Z-Score,1.123662
+cloud,ecommerce-api-incoming-rps/api-01.csv,Windowed AE,949.213885
+cloud,ecommerce-api-incoming-rps/api-01.csv,Windowed RF,5345.315792
+cloud,ecommerce-api-incoming-rps/api-01.csv,"ALL channels, single fit each",7421.220436
+cloud,ecommerce-api-incoming-rps/api-01.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),30771.356659
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Isolation Forest,68.559951
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,LOF,1.957239
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,One-Class SVM,0.965677
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Elliptic Envelope,31.229436
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Autoencoder,32.722341
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,ECOD,0.026436
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,LODA,2.870365
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,HBOS,1.373926
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,PCA+ECOD,1.529202
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Rolling Z-Score,0.205373
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Windowed AE,91.494144
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Windowed RF,351.297192
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,"ALL channels, single fit each",586.154587
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),3913.287157
+cloud,mongodb-application-rps/mongo-02.csv,Isolation Forest,83.206653
+cloud,mongodb-application-rps/mongo-02.csv,LOF,58.203075
+cloud,mongodb-application-rps/mongo-02.csv,One-Class SVM,23.67739
+cloud,mongodb-application-rps/mongo-02.csv,Elliptic Envelope,518.158398
+cloud,mongodb-application-rps/mongo-02.csv,Autoencoder,254.416303
+cloud,mongodb-application-rps/mongo-02.csv,ECOD,0.227747
+cloud,mongodb-application-rps/mongo-02.csv,LODA,7.523859
+cloud,mongodb-application-rps/mongo-02.csv,HBOS,2.812108
+cloud,mongodb-application-rps/mongo-02.csv,PCA+ECOD,14.287756
+cloud,mongodb-application-rps/mongo-02.csv,Rolling Z-Score,1.176336
+cloud,mongodb-application-rps/mongo-02.csv,Windowed AE,717.573962
+cloud,mongodb-application-rps/mongo-02.csv,Windowed RF,1717.37344
+cloud,mongodb-application-rps/mongo-02.csv,"ALL channels, single fit each",3488.149785
+cloud,mongodb-application-rps/mongo-02.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),13575.475833
+cloud,mongodb-machine-rps/machine-01.csv,Isolation Forest,133.139604
+cloud,mongodb-machine-rps/machine-01.csv,LOF,599.543545
+cloud,mongodb-machine-rps/machine-01.csv,One-Class SVM,169.058483
+cloud,mongodb-machine-rps/machine-01.csv,Elliptic Envelope,1277.10762
+cloud,mongodb-machine-rps/machine-01.csv,Autoencoder,305.933816
+cloud,mongodb-machine-rps/machine-01.csv,ECOD,0.515294
+cloud,mongodb-machine-rps/machine-01.csv,LODA,19.418407
+cloud,mongodb-machine-rps/machine-01.csv,HBOS,6.408656
+cloud,mongodb-machine-rps/machine-01.csv,PCA+ECOD,47.20189
+cloud,mongodb-machine-rps/machine-01.csv,Rolling Z-Score,4.029092
+cloud,mongodb-machine-rps/machine-01.csv,Windowed AE,2474.016861
+cloud,mongodb-machine-rps/machine-01.csv,Windowed RF,17265.857794
+cloud,mongodb-machine-rps/machine-01.csv,"ALL channels, single fit each",22372.37868
+cloud,mongodb-machine-rps/machine-01.csv,UASE-v2 training pipeline (all channels + 4-fold OOF),91273.208927

@@ -1,0 +1,10 @@
+{
+  "csv": "data/v2/meta/cloud_test_per_series.csv",
+  "metric": "mcc_pa",
+  "reference": "UASE-v2 (proposed)",
+  "n_series": 53,
+  "k_models": 16,
+  "friedman_stat": 64.17543971247717,
+  "friedman_p": 4.7635269944032526e-08,
+  "nemenyi_cd_0.05": 3.1685331169497895
+}

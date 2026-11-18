@@ -1,0 +1,237 @@
+dataset,series,component,n_points,points_per_s
+k8s,k8s_metrics.csv,Autoencoder,3024,1241418.5505863691
+k8s,k8s_metrics.csv,ECOD,3024,104245.8428609058
+k8s,k8s_metrics.csv,Elliptic Envelope,3024,1244206.8674952602
+k8s,k8s_metrics.csv,HBOS,3024,816141.9050544122
+k8s,k8s_metrics.csv,Isolation Forest,3024,93997.2819740971
+k8s,k8s_metrics.csv,LODA,3024,289325.2474070517
+k8s,k8s_metrics.csv,LOF,3024,28590.645677754303
+k8s,k8s_metrics.csv,One-Class SVM,3024,80342.16623362753
+k8s,k8s_metrics.csv,PCA+ECOD,3024,172259.01809283634
+k8s,k8s_metrics.csv,Rolling Z-Score,3024,4821244.085047766
+k8s,k8s_metrics.csv,Windowed AE,3024,72853.62242473045
+k8s,k8s_metrics.csv,Windowed RF,3024,49687.91095426849
+yahoo,A1Benchmark/real_1.csv,Autoencoder,205,648565.8784745731
+yahoo,A1Benchmark/real_1.csv,ECOD,205,119810.2439511899
+yahoo,A1Benchmark/real_1.csv,Elliptic Envelope,205,474648.0079833479
+yahoo,A1Benchmark/real_1.csv,HBOS,205,434744.80479958263
+yahoo,A1Benchmark/real_1.csv,Isolation Forest,205,42827.805064544635
+yahoo,A1Benchmark/real_1.csv,LODA,205,264421.96069528785
+yahoo,A1Benchmark/real_1.csv,LOF,205,102691.41680091691
+yahoo,A1Benchmark/real_1.csv,One-Class SVM,205,199332.96383808326
+yahoo,A1Benchmark/real_1.csv,PCA+ECOD,205,179226.04075687594
+yahoo,A1Benchmark/real_1.csv,Residual Z,205,241976.13053018742
+yahoo,A1Benchmark/real_1.csv,Rolling Z-Score,205,4295802.686448314
+yahoo,A1Benchmark/real_1.csv,Spectral Residual,205,1505493.2142647319
+yahoo,A1Benchmark/real_1.csv,Windowed AE,205,145132.12687238143
+yahoo,A1Benchmark/real_1.csv,Windowed RF,205,27384.889952817837
+yahoo,A1Benchmark/real_11.csv,Autoencoder,23,98327.15582289141
+yahoo,A1Benchmark/real_11.csv,ECOD,23,23823.482495955184
+yahoo,A1Benchmark/real_11.csv,Elliptic Envelope,23,63135.818871570766
+yahoo,A1Benchmark/real_11.csv,HBOS,23,69061.1882127565
+yahoo,A1Benchmark/real_11.csv,Isolation Forest,23,5932.10219000317
+yahoo,A1Benchmark/real_11.csv,LODA,23,52240.07722446198
+yahoo,A1Benchmark/real_11.csv,LOF,23,41189.40680090832
+yahoo,A1Benchmark/real_11.csv,One-Class SVM,23,88316.49560145455
+yahoo,A1Benchmark/real_11.csv,PCA+ECOD,23,41224.62221218492
+yahoo,A1Benchmark/real_11.csv,Residual Z,23,194276.44693718958
+yahoo,A1Benchmark/real_11.csv,Rolling Z-Score,23,700514.7260378278
+yahoo,A1Benchmark/real_11.csv,Spectral Residual,23,89851.82262468894
+yahoo,A1Benchmark/real_11.csv,Windowed AE,23,69211.85749579463
+yahoo,A1Benchmark/real_11.csv,Windowed RF,23,3180.7526296872365
+yahoo,A2Benchmark/synthetic_1.csv,Autoencoder,527,925270.7777717302
+yahoo,A2Benchmark/synthetic_1.csv,ECOD,527,216843.06939513126
+yahoo,A2Benchmark/synthetic_1.csv,Elliptic Envelope,527,1098097.3951962928
+yahoo,A2Benchmark/synthetic_1.csv,HBOS,527,1047782.458888953
+yahoo,A2Benchmark/synthetic_1.csv,Isolation Forest,527,89516.95327096136
+yahoo,A2Benchmark/synthetic_1.csv,LODA,527,434571.7942290185
+yahoo,A2Benchmark/synthetic_1.csv,LOF,527,125369.02980547579
+yahoo,A2Benchmark/synthetic_1.csv,One-Class SVM,527,331973.10450916487
+yahoo,A2Benchmark/synthetic_1.csv,PCA+ECOD,527,352020.2421658797
+yahoo,A2Benchmark/synthetic_1.csv,Residual Z,527,261094.40668401678
+yahoo,A2Benchmark/synthetic_1.csv,Rolling Z-Score,527,4161040.9708569217
+yahoo,A2Benchmark/synthetic_1.csv,Spectral Residual,527,3974209.1173032694
+yahoo,A2Benchmark/synthetic_1.csv,Windowed AE,527,84494.43707545353
+yahoo,A2Benchmark/synthetic_1.csv,Windowed RF,527,69379.54282962425
+yahoo,A2Benchmark/synthetic_10.csv,Autoencoder,527,1171605.789110958
+yahoo,A2Benchmark/synthetic_10.csv,ECOD,527,225796.50036847248
+yahoo,A2Benchmark/synthetic_10.csv,Elliptic Envelope,527,1134758.4923861367
+yahoo,A2Benchmark/synthetic_10.csv,HBOS,527,830577.8741619359
+yahoo,A2Benchmark/synthetic_10.csv,Isolation Forest,527,92379.48158808568
+yahoo,A2Benchmark/synthetic_10.csv,LODA,527,477797.38127143064
+yahoo,A2Benchmark/synthetic_10.csv,LOF,527,151579.38819452556
+yahoo,A2Benchmark/synthetic_10.csv,One-Class SVM,527,304760.8032500108
+yahoo,A2Benchmark/synthetic_10.csv,PCA+ECOD,527,332335.9052054397
+yahoo,A2Benchmark/synthetic_10.csv,Residual Z,527,254112.94090644544
+yahoo,A2Benchmark/synthetic_10.csv,Rolling Z-Score,527,5371083.797060682
+yahoo,A2Benchmark/synthetic_10.csv,Spectral Residual,527,3946855.9959258265
+yahoo,A2Benchmark/synthetic_10.csv,Windowed AE,527,156172.6730419888
+yahoo,A2Benchmark/synthetic_10.csv,Windowed RF,527,70286.96554231529
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Autoencoder,504,982318.2711198428
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,ECOD,504,214983.58830642837
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Elliptic Envelope,504,1011745.4817735255
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,HBOS,504,784129.468487797
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Isolation Forest,504,91005.26692982357
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,LODA,504,411230.1738508197
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,LOF,504,92252.89814126884
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,One-Class SVM,504,262526.66286419716
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,PCA+ECOD,504,289971.8082964156
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Residual Z,504,252841.9637392517
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Rolling Z-Score,504,4853667.697108023
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Spectral Residual,504,3396409.5099466275
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Windowed AE,504,149468.0095457863
+yahoo,A3Benchmark/A3Benchmark-TS1.csv,Windowed RF,504,58469.64068317599
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Autoencoder,504,1305050.337655881
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,ECOD,504,242845.57189891263
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Elliptic Envelope,504,1072431.69631458
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,HBOS,504,923017.7552720979
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Isolation Forest,504,99090.06224979268
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,LODA,504,506922.9175425503
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,LOF,504,68259.08059081485
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,One-Class SVM,504,293693.6285964358
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,PCA+ECOD,504,372713.5245462176
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Residual Z,504,255637.98415247383
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Rolling Z-Score,504,4796665.175639793
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Spectral Residual,504,3920074.045843088
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Windowed AE,504,142981.64388038564
+yahoo,A3Benchmark/A3Benchmark-TS10.csv,Windowed RF,504,66119.05917301586
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Autoencoder,504,844253.6312119229
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,ECOD,504,199655.2777327717
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Elliptic Envelope,504,1013018.4936173804
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,HBOS,504,877480.100004875
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Isolation Forest,504,100826.79976337712
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,LODA,504,456013.2678146017
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,LOF,504,88993.09085188108
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,One-Class SVM,504,296613.1370193793
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,PCA+ECOD,504,363678.8715564157
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Residual Z,504,247672.41980868287
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Rolling Z-Score,504,4324546.9522240525
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Spectral Residual,504,3504429.2091393284
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Windowed AE,504,94695.04812537624
+yahoo,A4Benchmark/A4Benchmark-TS1.csv,Windowed RF,504,56017.16614935999
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Autoencoder,643,1489305.0295892253
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,ECOD,643,201222.2924257488
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Elliptic Envelope,643,1092426.4098756707
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,HBOS,643,918277.5797459098
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Isolation Forest,643,113686.85406904346
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,LODA,643,483544.0848570989
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,LOF,643,120925.5108256542
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,One-Class SVM,643,320645.16000343085
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,PCA+ECOD,643,366240.07008114806
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Residual Z,643,240708.75438647717
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Rolling Z-Score,643,5357708.2673688065
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Spectral Residual,643,3965072.8266097703
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Windowed AE,643,140767.0292530525
+yahoo,A4Benchmark/A4Benchmark-TS10.csv,Windowed RF,643,74333.52423446297
+cloud,application-crash-rate-1/app1-01.csv,Autoencoder,108,341896.57628567354
+cloud,application-crash-rate-1/app1-01.csv,ECOD,108,155046.10468196167
+cloud,application-crash-rate-1/app1-01.csv,Elliptic Envelope,108,329177.96945959947
+cloud,application-crash-rate-1/app1-01.csv,HBOS,108,327476.15943237464
+cloud,application-crash-rate-1/app1-01.csv,Isolation Forest,108,27717.516418137217
+cloud,application-crash-rate-1/app1-01.csv,LODA,108,182958.12799953923
+cloud,application-crash-rate-1/app1-01.csv,LOF,108,111668.18831805995
+cloud,application-crash-rate-1/app1-01.csv,One-Class SVM,108,271136.0600917846
+cloud,application-crash-rate-1/app1-01.csv,PCA+ECOD,108,199556.17229088637
+cloud,application-crash-rate-1/app1-01.csv,Residual Z,108,246621.5136167045
+cloud,application-crash-rate-1/app1-01.csv,Rolling Z-Score,108,2663509.9141757917
+cloud,application-crash-rate-1/app1-01.csv,Spectral Residual,108,926696.5840934247
+cloud,application-crash-rate-1/app1-01.csv,Windowed AE,108,94148.41451454724
+cloud,application-crash-rate-1/app1-01.csv,Windowed RF,108,15929.936598852337
+cloud,application-crash-rate-2/app2-01.csv,Autoencoder,335,950921.1161259189
+cloud,application-crash-rate-2/app2-01.csv,ECOD,335,212461.40020307506
+cloud,application-crash-rate-2/app2-01.csv,Elliptic Envelope,335,841636.6441057798
+cloud,application-crash-rate-2/app2-01.csv,HBOS,335,701137.5171360102
+cloud,application-crash-rate-2/app2-01.csv,Isolation Forest,335,70754.74188775764
+cloud,application-crash-rate-2/app2-01.csv,LODA,335,439521.800281294
+cloud,application-crash-rate-2/app2-01.csv,LOF,335,168562.6187485911
+cloud,application-crash-rate-2/app2-01.csv,One-Class SVM,335,241555.647210501
+cloud,application-crash-rate-2/app2-01.csv,PCA+ECOD,335,279167.8298659578
+cloud,application-crash-rate-2/app2-01.csv,Residual Z,335,230620.32047275102
+cloud,application-crash-rate-2/app2-01.csv,Rolling Z-Score,335,4155244.911375448
+cloud,application-crash-rate-2/app2-01.csv,Spectral Residual,335,1704149.4768006755
+cloud,application-crash-rate-2/app2-01.csv,Windowed AE,335,152855.03547833816
+cloud,application-crash-rate-2/app2-01.csv,Windowed RF,335,40368.57107911216
+cloud,consumer-purchase-rate/purchase-02.csv,Autoencoder,375,980448.548674695
+cloud,consumer-purchase-rate/purchase-02.csv,ECOD,375,176366.76008617986
+cloud,consumer-purchase-rate/purchase-02.csv,Elliptic Envelope,375,835539.1567070399
+cloud,consumer-purchase-rate/purchase-02.csv,HBOS,375,650481.5297937887
+cloud,consumer-purchase-rate/purchase-02.csv,Isolation Forest,375,69670.71945886474
+cloud,consumer-purchase-rate/purchase-02.csv,LODA,375,359623.2299344623
+cloud,consumer-purchase-rate/purchase-02.csv,LOF,375,139621.22808598285
+cloud,consumer-purchase-rate/purchase-02.csv,One-Class SVM,375,234549.15274591383
+cloud,consumer-purchase-rate/purchase-02.csv,PCA+ECOD,375,251213.8653976012
+cloud,consumer-purchase-rate/purchase-02.csv,Residual Z,375,191917.0672615584
+cloud,consumer-purchase-rate/purchase-02.csv,Rolling Z-Score,375,3001368.6240925863
+cloud,consumer-purchase-rate/purchase-02.csv,Spectral Residual,375,2245065.3463686816
+cloud,consumer-purchase-rate/purchase-02.csv,Windowed AE,375,144289.81706359834
+cloud,consumer-purchase-rate/purchase-02.csv,Windowed RF,375,35092.67742155851
+cloud,data-ingress-rate/ingress-01.csv,Autoencoder,7252,2437763.415934475
+cloud,data-ingress-rate/ingress-01.csv,ECOD,7252,225116.04713604707
+cloud,data-ingress-rate/ingress-01.csv,Elliptic Envelope,7252,3339777.710437773
+cloud,data-ingress-rate/ingress-01.csv,HBOS,7252,1955412.1802333498
+cloud,data-ingress-rate/ingress-01.csv,Isolation Forest,7252,317333.94676394854
+cloud,data-ingress-rate/ingress-01.csv,LODA,7252,841255.5820764769
+cloud,data-ingress-rate/ingress-01.csv,LOF,7252,39033.91533213278
+cloud,data-ingress-rate/ingress-01.csv,One-Class SVM,7252,60100.8997308562
+cloud,data-ingress-rate/ingress-01.csv,PCA+ECOD,7252,315514.86483111733
+cloud,data-ingress-rate/ingress-01.csv,Residual Z,7252,239241.91586984793
+cloud,data-ingress-rate/ingress-01.csv,Rolling Z-Score,7252,9766753.443346232
+cloud,data-ingress-rate/ingress-01.csv,Spectral Residual,7252,6993735.341315888
+cloud,data-ingress-rate/ingress-01.csv,Windowed AE,7252,57710.22399405378
+cloud,data-ingress-rate/ingress-01.csv,Windowed RF,7252,149725.43901482807
+cloud,ecommerce-api-incoming-rps/api-01.csv,Autoencoder,1858,2395206.4930979894
+cloud,ecommerce-api-incoming-rps/api-01.csv,ECOD,1858,178794.25121631575
+cloud,ecommerce-api-incoming-rps/api-01.csv,Elliptic Envelope,1858,2065245.3006777072
+cloud,ecommerce-api-incoming-rps/api-01.csv,HBOS,1858,1361971.3839403195
+cloud,ecommerce-api-incoming-rps/api-01.csv,Isolation Forest,1858,219259.58233999772
+cloud,ecommerce-api-incoming-rps/api-01.csv,LODA,1858,764163.4487214658
+cloud,ecommerce-api-incoming-rps/api-01.csv,LOF,1858,69447.5748181748
+cloud,ecommerce-api-incoming-rps/api-01.csv,One-Class SVM,1858,162241.8647231174
+cloud,ecommerce-api-incoming-rps/api-01.csv,PCA+ECOD,1858,362372.6868510984
+cloud,ecommerce-api-incoming-rps/api-01.csv,Residual Z,1858,248491.63039263952
+cloud,ecommerce-api-incoming-rps/api-01.csv,Rolling Z-Score,1858,8614414.53972228
+cloud,ecommerce-api-incoming-rps/api-01.csv,Spectral Residual,1858,3911084.9155896096
+cloud,ecommerce-api-incoming-rps/api-01.csv,Windowed AE,1858,132626.35444129113
+cloud,ecommerce-api-incoming-rps/api-01.csv,Windowed RF,1858,105966.00589999103
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Autoencoder,357,685469.3929275686
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,ECOD,357,160282.4562994597
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Elliptic Envelope,357,544895.080986367
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,HBOS,357,393554.5249400022
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Isolation Forest,357,36449.74947688994
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,LODA,357,214846.42993839865
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,LOF,357,99636.53596418444
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,One-Class SVM,357,260920.6625776915
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,PCA+ECOD,357,229323.61737771975
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Residual Z,357,116078.68639245651
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Rolling Z-Score,357,1096258.901345911
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Spectral Residual,357,1064026.3711633952
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Windowed AE,357,46135.49931533368
+cloud,middle-tier-api-dependency-latency/outbound-01.csv,Windowed RF,357,22496.951095976467
+cloud,mongodb-application-rps/mongo-02.csv,Autoencoder,11939,2239467.1047436222
+cloud,mongodb-application-rps/mongo-02.csv,ECOD,11939,232872.30896824636
+cloud,mongodb-application-rps/mongo-02.csv,Elliptic Envelope,11939,3329642.7167028757
+cloud,mongodb-application-rps/mongo-02.csv,HBOS,11939,2092163.4905116644
+cloud,mongodb-application-rps/mongo-02.csv,Isolation Forest,11939,345750.6237643593
+cloud,mongodb-application-rps/mongo-02.csv,LODA,11939,614717.8666906122
+cloud,mongodb-application-rps/mongo-02.csv,LOF,11939,50496.05170064836
+cloud,mongodb-application-rps/mongo-02.csv,One-Class SVM,11939,127211.2341744334
+cloud,mongodb-application-rps/mongo-02.csv,PCA+ECOD,11939,336140.4065150706
+cloud,mongodb-application-rps/mongo-02.csv,Residual Z,11939,206342.77539484337
+cloud,mongodb-application-rps/mongo-02.csv,Rolling Z-Score,11939,6991115.1528424425
+cloud,mongodb-application-rps/mongo-02.csv,Spectral Residual,11939,11765529.039836649
+cloud,mongodb-application-rps/mongo-02.csv,Windowed AE,11939,50144.075702157024
+cloud,mongodb-application-rps/mongo-02.csv,Windowed RF,11939,180544.0832578155
+cloud,mongodb-machine-rps/machine-01.csv,Autoencoder,6048,1966850.375955254
+cloud,mongodb-machine-rps/machine-01.csv,ECOD,6048,183206.58414413655
+cloud,mongodb-machine-rps/machine-01.csv,Elliptic Envelope,6048,3189515.1019426617
+cloud,mongodb-machine-rps/machine-01.csv,HBOS,6048,2236550.7417449537
+cloud,mongodb-machine-rps/machine-01.csv,Isolation Forest,6048,301900.5960340405
+cloud,mongodb-machine-rps/machine-01.csv,LODA,6048,932158.7844945374
+cloud,mongodb-machine-rps/machine-01.csv,LOF,6048,25232.25702251198
+cloud,mongodb-machine-rps/machine-01.csv,One-Class SVM,6048,78518.63278443988
+cloud,mongodb-machine-rps/machine-01.csv,PCA+ECOD,6048,274769.79511250503
+cloud,mongodb-machine-rps/machine-01.csv,Residual Z,6048,251395.7389170455
+cloud,mongodb-machine-rps/machine-01.csv,Rolling Z-Score,6048,9811555.832424857
+cloud,mongodb-machine-rps/machine-01.csv,Spectral Residual,6048,4479940.267463101
+cloud,mongodb-machine-rps/machine-01.csv,Windowed AE,6048,90486.90708465353
+cloud,mongodb-machine-rps/machine-01.csv,Windowed RF,6048,120049.45847134323

@@ -1,0 +1,26 @@
+{
+  "dataset": "yahoo",
+  "bench": null,
+  "objective": "f1_pa",
+  "n_dev_series": 274,
+  "selected_config": "single:Residual Z",
+  "global_rank_dev": [
+    "Residual Z",
+    "LOF",
+    "Isolation Forest",
+    "ECOD",
+    "Autoencoder",
+    "Spectral Residual",
+    "PCA+ECOD",
+    "HBOS",
+    "LODA",
+    "Windowed RF",
+    "One-Class SVM",
+    "Rolling Z-Score",
+    "Elliptic Envelope",
+    "Windowed AE"
+  ],
+  "selected_channels": null,
+  "dev_mean_of_selected": 0.5669975165521476,
+  "cv_heldout_mean": 0.5672329536438248
+}
